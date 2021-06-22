@@ -1,0 +1,4 @@
+Kinyabaev 120000
+Bogdanov 15000
+Alexseev 30000
+Kazalov 5000
